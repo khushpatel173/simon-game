@@ -1,0 +1,29 @@
+.box1 , .box2 , .box3 , .box4{
+    height: 100px;
+    width: 100px;
+    border-radius: 30%;
+    border: 2px solid black;
+    margin: 7px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    background-color: aqua;
+}
+.box2{
+    background-color: pink;
+}
+.box3{
+    background-color: red;
+}
+.box4{
+    background-color:bisque;
+}
+.flash{
+    background-color: white;
+}
+body{
+    background-color: rgb(227, 130, 248);
+}
